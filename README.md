@@ -34,4 +34,4 @@
 
 - [solidot](https://www.solidot.org/story?sid=62478)
 - [新京报网](http://www.bjnews.com.cn/finance/2019/11/04/645316.html)
-
+- [同盾非法爬虫](https://www.chainnews.com/articles/777152590876.htm)
